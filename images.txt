@@ -10,4 +10,5 @@
 #cr2.fit2cloud.com/1panel/maxkb
 #ghcr.io/ajnart/homarr:latest
 #soulteary/flare:latest
-linuxserver/qbittorrent
+#linuxserver/qbittorrent
+cnk3x/xunlei
