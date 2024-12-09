@@ -11,4 +11,5 @@
 #ghcr.io/ajnart/homarr:latest
 #soulteary/flare:latest
 #linuxserver/qbittorrent
-cnk3x/xunlei
+#cnk3x/xunlei
+portainer/portainer-ce:2.21.4
