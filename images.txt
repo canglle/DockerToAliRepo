@@ -14,4 +14,5 @@
 #cnk3x/xunlei
 #portainer/portainer-ce:2.21.4
 #janten/iftop
-lovechen/embyserver
+#lovechen/embyserver
+cloudnas/clouddrive2
