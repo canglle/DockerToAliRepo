@@ -13,4 +13,5 @@
 #linuxserver/qbittorrent
 #cnk3x/xunlei
 #portainer/portainer-ce:2.21.4
-janten/iftop
+#janten/iftop
+lovechen/embyserver
