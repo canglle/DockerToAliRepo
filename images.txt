@@ -15,4 +15,6 @@
 #portainer/portainer-ce:2.21.4
 #janten/iftop
 #lovechen/embyserver
-cloudnas/clouddrive2
+#cloudnas/clouddrive2
+youshandefeiyang/allinone
+youshandefeiyang/av3a-assistant:amd64
