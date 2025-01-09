@@ -20,4 +20,4 @@ youshandefeiyang/allinone
 #youshandefeiyang/av3a-assistant:amd64
 #containrrr/watchtower
 #yuexuangu/allinone_format
-unilei/aipan-netdisk-search:amd64
+unilei/aipan-netdisk-search
