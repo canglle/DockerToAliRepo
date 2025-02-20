@@ -21,4 +21,4 @@
 #containrrr/watchtower
 #yuexuangu/allinone_format
 #unilei/aipan-netdisk-search
-xhofe/alis
+xhofe/alist
