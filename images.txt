@@ -22,4 +22,5 @@
 #yuexuangu/allinone_format
 #unilei/aipan-netdisk-search
 #xhofe/alist
-bitwarden/server
+#bitwarden/server
+vaultwarden/server:latest
