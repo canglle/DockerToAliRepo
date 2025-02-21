@@ -21,4 +21,5 @@
 #containrrr/watchtower
 #yuexuangu/allinone_format
 #unilei/aipan-netdisk-search
-xhofe/alist
+#xhofe/alist
+bitwarden/server
