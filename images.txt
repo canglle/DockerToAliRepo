@@ -16,12 +16,12 @@
 #janten/iftop
 #lovechen/embyserver
 #cloudnas/clouddrive2
-#youshandefeiyang/allinone
+youshandefeiyang/allinone
 #youshandefeiyang/av3a-assistant:amd64
 #containrrr/watchtower
 #yuexuangu/allinone_format
 #unilei/aipan-netdisk-search
-xhofe/alist
+#xhofe/alist
 #bitwarden/server
 #vaultwarden/server:latest
 
