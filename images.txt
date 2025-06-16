@@ -21,8 +21,8 @@ youshandefeiyang/allinone
 #containrrr/watchtower
 #yuexuangu/allinone_format
 #unilei/aipan-netdisk-search
-xhofe/alist:v3.40.0
-xhofe/alist:v3.39.4
+#xhofe/alist:v3.40.0
+#xhofe/alist:v3.39.4
 #bitwarden/server
 #vaultwarden/server:latest
-#
+
