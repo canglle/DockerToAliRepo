@@ -15,7 +15,7 @@
 #portainer/portainer-ce:2.21.4
 #janten/iftop
 #lovechen/embyserver
-cloudnas/clouddrive2
+#cloudnas/clouddrive2
 #youshandefeiyang/allinone
 #youshandefeiyang/av3a-assistant:amd64
 #containrrr/watchtower
@@ -25,4 +25,4 @@ cloudnas/clouddrive2
 #xhofe/alist:v3.39.4
 #bitwarden/server
 #vaultwarden/server:latest
-
+rustdesk/rustdesk-server:latest
