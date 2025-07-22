@@ -16,7 +16,7 @@
 #janten/iftop
 #lovechen/embyserver
 #cloudnas/clouddrive2
-youshandefeiyang/allinone
+#youshandefeiyang/allinone
 #youshandefeiyang/av3a-assistant:amd64
 #containrrr/watchtower
 #yuexuangu/allinone_format
@@ -26,4 +26,4 @@ youshandefeiyang/allinone
 #bitwarden/server
 #vaultwarden/server:latest
 #rustdesk/rustdesk-server:latest
-#
+ghcr.io/fatedier/frps:v0.63.0
