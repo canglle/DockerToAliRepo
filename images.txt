@@ -27,4 +27,5 @@
 #vaultwarden/server:latest
 #rustdesk/rustdesk-server:latest
 #ghcr.io/fatedier/frps:v0.63.0
-openvpn/openvpn-as
+#openvpn/openvpn-as
+ghcr.io/fish2018/pansou-web:latest
