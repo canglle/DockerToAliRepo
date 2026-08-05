@@ -24,11 +24,11 @@
 #xhofe/alist:v3.40.0
 #xhofe/alist:v3.39.4
 #bitwarden/server
-#vaultwarden/server:latest
+vaultwarden/server:latest
 #rustdesk/rustdesk-server:latest
 #ghcr.io/fatedier/frps:v0.63.0
 #openvpn/openvpn-as
 #ghcr.io/fish2018/pansou-web:latest
 #tindy2013/subconverter:latest
 #ghcr.io/fatedier/frps:v0.68.1
-ghcr.io/fatedier/frpc:v0.68.1
+#ghcr.io/fatedier/frpc:v0.68.1
